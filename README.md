@@ -1,10 +1,6 @@
-# Styled Components
+Block Sliding:
 
-- Styling React Components
-  - CSS-in-JS
-- Styled Components
-  - Adapting based on props
-  - Conditional Styling
-- Advantages
-  - Unique Class Names
-  - Readability
+In this Application you can move a block in a specified area with the help of buttons. 
+If you click on the buttons the block will move according to the given direction
+
+Basic ReactJS concepts are used like components, styledComponents, props etc.,
